@@ -19,7 +19,7 @@ Our group did further research on the fastener dispensers. We realised that such
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Dispenser%201.PNG" width ="300">
 
-For fastener sorters, we wanted to make one suited for the given box, which was a mix of different fasteners of different sizes. We researched existing products and products that had a function of sorting. Most of the machines have a limited sorting capability, for example, they sort only 1 type of fastener of different sizes.
+For fastener sorters, we wanted to make one suited for the given box, which was a mix of different fasteners of different sizes. We researched existing products and products that had a function of sorting. Most of the machines have a limited sorting capability, for example, they sort only 1 type of fastener of different sizes.The one below can seperate by different thread size, but have the same head.It is important to note that the box of fasteners Mr Ang showed us has male parts of differing heads.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%201.PNG" width ="300">
 
