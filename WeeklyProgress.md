@@ -27,7 +27,7 @@ For fastener sorters, we wanted to make one suited for the given box, which was 
 
 Current existing fastener sorters in the market are quite expensive and large.The machines are technologically complex, for example using complex object recognition technology by means of precision cameras to measure and identify thread diameters and the head shape of the fasteners.Our teams do not have any prior experience in this.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%201.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%202%20a.PNG" width ="300"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%202%20b.PNG" width ="300">
 
 [https://www.gemmachinery.com/products/machine15.htm] 
 
