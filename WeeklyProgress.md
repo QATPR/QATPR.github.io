@@ -23,9 +23,13 @@ For fastener sorters, we wanted to make one suited for the given box, which was 
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%201.PNG" width ="300">
 
+[https://youtu.be/YA69V4txt-M]
+
 Current existing fastener sorters in the market are quite expensive and large.The machines are technologically complex, for example using complex object recognition technology by means of precision cameras to measure and identify thread diameters and the head shape of the fasteners.Our teams do not have any prior experience in this.
 
-Insert image 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%201.PNG" width ="300">
+
+[https://www.gemmachinery.com/products/machine15.htm] 
 
 Our team decided that we want to make a fastener sorter that is inexpensive and compact. To do this, we will incorporate existing low technology ideas to seperate the male and female parts.To further seperate the male parts of different threads, we plan to use laser rangefinder technology to measure and identify the threads based on different distances.Below is a link to our idea we trying to in corporate
 
