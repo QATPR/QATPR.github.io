@@ -1,3 +1,5 @@
+# Hi welcome to our weekly progress report
+
 ### Group members
 Faaris (Leader)
 
