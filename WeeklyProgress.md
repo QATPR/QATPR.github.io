@@ -17,7 +17,7 @@ This week we interviewed the workshop technicians in the workshop w1218. We inte
 
 Our group did further research on the fastener dispensers. We realised that such a system is rare. Rare as in multiple fasteners dispenser systems.The machines we saw could only dispense a single type of fastener. We realised that having a multiple fastener dispensing system is not practical as it would eat up huge space as the mechanical components to dispense each fastener is complex.This would also mean a limited fastener types.In conclusion, we realised that the fastener sorter is the logical idea to pursue as it is something that will be useful to the workshop and will not take up a lot of space.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%201.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Dispenser%201.PNG" width ="300">
 
 For fastener sorters, we wanted to make one suited for the given box, which was a mix of different fasteners of different sizes. We researched existing products and products that had a function of sorting. Most of the machines have a limited sorting capability, for example, they sort only 1 type of fastener of different sizes.
 
