@@ -33,4 +33,8 @@ Current existing fastener sorters in the market are quite expensive and large.Th
 
 Our team decided that we want to make a fastener sorter that is inexpensive and compact. To do this, we will incorporate existing low technology ideas to seperate the male and female parts.To further seperate the male parts of different threads, we plan to use laser rangefinder technology to measure and identify the threads based on different distances.Below is a link to our idea we trying to in corporate
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Laser%20Rangefinder%201.PNG" width ="300">
+
+[https://youtu.be/i5GfvopHAHM]
+
 Tze Pin researched on the electrical components……..
