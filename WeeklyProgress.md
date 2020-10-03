@@ -38,3 +38,29 @@ Our team decided that we want to make a fastener sorter that is inexpensive and 
 [https://youtu.be/i5GfvopHAHM]
 
 Tze Pin researched on the electrical components……..
+
+### Week 3 (28 Sep - 2 Oct)
+
+This week we measured the fasteners in the box and created concept sketches. We measured the outer diameter and thread diameter of a handful of male fasteners.We wanted to find out what are the sizes of the fasteners in the box so that we know the dimensions to use when designing the fastener sorter. We put inserted the values in microsoft excel to visualise the frequency of the type of fasteners.Below you can see the 3 distinct colours shades indicating the 3 distinct ranges of outer diameter of the male fasteners
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure1.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure3.PNG" width ="300">
+
+Our team decided that the sorter would have two phases.The first phase is to sort the large male, small male and female parts. The second phase is to sort the male parts based on their thread diameters.From this we came up with concepts.Below is a concept for the first phase which we drew inspiration from one of our research.This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" width ="300">
+[https://youtu.be/H19S197kgXA]
+
+We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable.We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.
+
+For the entrance, we decide to use a coil. The coil would be able to separate the fasteners into smaller groups and push them into the sorter, allowing them to enter at a slower and constant speed, leading to less jamming occurring. Additional parts required are a tube that holds the coil, covers for both sides of the tube, a box for the user to load the fasteners and something to hole the box in place.
+
+[insert image of coil]
+
+For the sorter, …
+
+[insert image of sorter (probably CAD)]
+
+For the vibration module, …
+
+[insert image of vibration module]
+
