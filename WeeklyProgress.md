@@ -47,7 +47,8 @@ This week we measured the fasteners in the box and created concept sketches. We 
 
 Our team decided that the sorter would have two phases.The first phase is to sort the large male, small male and female parts. The second phase is to sort the male parts based on their thread diameters.From this we came up with concepts.Below is a concept for the first phase which we drew inspiration from one of our research.This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" length ="300" width ="300">
+
 [https://youtu.be/H19S197kgXA]
 
 We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable.We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.
