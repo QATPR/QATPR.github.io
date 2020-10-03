@@ -47,7 +47,7 @@ This week we measured the fasteners in the box and created concept sketches. We 
 
 Our team decided that the sorter would have two phases.The first phase is to sort the large male, small male and female parts. The second phase is to sort the male parts based on their thread diameters.From this we came up with concepts.Below is a concept for the first phase which we drew inspiration from one of our research.This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" length ="300" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" width ="700">
 
 [https://youtu.be/H19S197kgXA]
 
