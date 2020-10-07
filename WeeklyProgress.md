@@ -81,7 +81,11 @@ How this works:
 After sorting the male and female fasteners at stage 1, the male fasteners will travel to stage 2, where they will be sorted by thread diameter. The fasteners will be lined up and travel in a sigle file line. They will then reach the revolver part, where the fasteners will be loaded one by one, as seen on the top view. The part will then rotate and arrive at the measuring area. A block will grip onto the thread using the tension of a tension band, then a laser range finder will measure the distance away from the block, then it will get the difference, allowing us to determine the thread diameter. ...
 
 
-Jeren continued working on the entrance for the fasteners, he started working on CAD models for all the parts for the entrance. We thought that the entrance could work as an lift to carry the fasteners upwards as well. These are the models created.
+Jeren continued working on the entrance for the fasteners, he started working on CAD models for all the parts for the entrance. We thought that the entrance could work as an lift to carry the fasteners upwards as well. The loading of the fasteners were tough. A few ideas of how the fastener loading area should be were drawn.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Slope%20ideas.jpeg" width ="300">
+
+These are the models created.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover1.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/box.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/boxholder.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coil.png" width ="500"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/assembly.PNG" width ="300">
 
