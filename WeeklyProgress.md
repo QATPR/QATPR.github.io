@@ -83,7 +83,7 @@ After sorting the male and female fasteners at stage 1, the male fasteners will 
 
 Jeren continued working on the entrance for the fasteners, he started working on CAD models for all the parts for the entrance. We thought that the entrance could work as an lift to carry the fasteners upwards as well. The loading of the fasteners were tough. A few ideas of how the fastener loading area should be were drawn.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Slope%20ideas.jpeg" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Slope%20ideas.jpeg" width ="600">
 
 These are the models created.
 
