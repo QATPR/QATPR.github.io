@@ -45,13 +45,13 @@ This week we measured the fasteners in the box and created concept sketches. We 
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure1.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure3.PNG" width ="300">
 
-Our team decided that the sorter would have two phases.The first phase is to sort the large male, small male and female parts. The second phase is to sort the male parts based on their thread diameters.From this we came up with concepts.Below is a concept for the first phase which we drew inspiration from one of our research.This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls
+Our team decided that the sorter would have two phases. The first phase is to sort the large male, small male and female parts. The second phase is to sort the male parts based on their thread diameters. From this we came up with concepts. Below is a concept for the first phase which we drew inspiration from one of our research. This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" width ="700">
 
 [https://youtu.be/H19S197kgXA]
 
-We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable.We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.
+We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable. We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.
 
 For the entrance, we decide to use a coil. The coil would be able to separate the fasteners into smaller groups and push them into the sorter, allowing them to enter at a slower and constant speed, leading to less jamming occurring. Additional parts required are a tube that holds the coil, covers for both sides of the tube, a box for the user to load the fasteners and something to hole the box in place.
 
@@ -67,12 +67,20 @@ For the vibration module, …
 
 ### Week 4 (5 Oct - 9 Oct)
 
-Faaris came up with the second stage of the sorter that sorts the fasteners based on the thread diameter.
-
-Top View
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Measuring%20mech1.jpeg" width ="600">
+Concept of the 2nd stage.
 
 Side View
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Measuring%20mech1.jpeg" width ="600">
+
+Top View
+
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Measuring%20mech2.jpeg" width ="600">
+
+How this works:
+After sorting the male and female fasteners at stage 1, the male fasteners will travel to stage 2, where they will be sorted by thread diameter. The fasteners will be lined up and travel in a sigle file line. They will then reach the revolver part, where the fasteners will be loaded one by one, as seen on the top view. The part will then rotate and arrive at the measuring area. A block will grip onto the thread using the tension of a tension band, then a laser range finder will measure the distance away from the block, then it will get the difference, allowing us to determine the thread diameter. ...
+
+
+Jeren continued working on the entrance for the fasteners, he started working on CAD models for all the parts for the entrance. We thought that the entrance could work as an lift to carry the fasteners upwards as well. These are the models created.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover1.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/box.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/boxholder.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coil.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/assembly.PNG" width ="300">
