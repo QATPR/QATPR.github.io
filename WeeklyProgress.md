@@ -65,3 +65,8 @@ For the vibration module, …
 
 [insert image of vibration module]
 
+### Week 4 (5 Oct - 9 Oct)
+
+Faaris came up with the second stage of the sorter that sorts the fasteners based on the thread diameter.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Measuring%20mech1.jpeg" width ="300">
