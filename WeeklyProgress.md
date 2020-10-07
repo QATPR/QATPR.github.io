@@ -53,17 +53,14 @@ Our team decided that the sorter would have two phases. The first phase is to so
 
 We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable. We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.
 
-For the entrance, we decide to use a coil. The coil would be able to separate the fasteners into smaller groups and push them into the sorter, allowing them to enter at a slower and constant speed, leading to less jamming occurring. Additional parts required are a tube that holds the coil, covers for both sides of the tube, a box for the user to load the fasteners and something to hole the box in place.
+For the entrance, we decide to use a coil. The coil would be able to separate the fasteners into smaller groups and push them into the sorter, allowing them to enter at a slower and constant speed, leading to less jamming occurring. Additional parts required are a tube that holds the coil, covers for both sides of the tube, a box for the user to load the fasteners and something to hole the box in place. For the tube that holds the coil, we decided to use a PVC pipe. We went to a hardware shop in Clementi and bought one.
 
-[insert image of coil]
-
-For the sorter, …
-
-[insert image of sorter (probably CAD)]
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/PVC%20pipe.png" width ="300">
 
 For the vibration module, …
 
 [insert image of vibration module]
+
 
 ### Week 4 (5 Oct - 9 Oct)
 
@@ -93,9 +90,9 @@ We 3D printed the cover 2.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover1%20printed.jpeg" width ="300">
 
-It took 2 hours 10 mins and used 33g of PLA. We tried fitting the cover onto the PVC pipe. It was tightfitted onto the pipe, but i believe that it was too tight. The next day, a small crack appeared on the cover.
+It took 2 hour 10 mins and used 33g of PLA. We tried fitting the cover onto the PVC pipe. It was tightfitted onto the pipe, but i believe that it was too tight. The next day, a small crack appeared on the cover.
 
-After more considerations, we decided to have the entrance be horizontal. This allows us to use a smaller motor as the overall load would decrease. All the parts have been replaced or edited to be better, except the coil. These are the new parts.
+After more considerations, we decided to have the entrance be horizontal. This allows us to use a smaller motor as the overall load would decrease. All the parts have been replaced or edited to be better, except the coil. These are the new parts. Another difference is that the fasteners enter the open side of the pipe instead of the curved edge of the pipe. However both the exits will be at the curved edge.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover1%202.0.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover2%202.0.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/box2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/slope.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Assembly2.PNG" width ="300">
 
@@ -103,4 +100,4 @@ We printed the new cover 1. This time, the diameters have been increased by 1mm 
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover1%202.0%20printed.jpeg" width ="300">
 
-The print failed 2 times. As there is a hole in the middle, the 3D printer drew a circle, but since the circle was too small, the circle kept moving whenever the nozzle went over it. So we changed the build plate adhesion from skirt, to raft. This allowed the circle to be connected to the raft and it didn't move anymore. This was fitted on to the PVC pipe and was just nice.
+The print failed 2 times. As there is a hole in the middle, the 3D printer drew a circle, but since the circle was too small, the circle kept moving whenever the nozzle went over it. So we changed the build plate adhesion from skirt, to raft. This allowed the circle to be connected to the raft and it didn't move anymore. This was fitted on to the PVC pipe and was just nice. This print took 2 hour 28 mins and 39g of PLA.
