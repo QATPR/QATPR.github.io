@@ -89,6 +89,18 @@ These are the models created.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover1.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/box.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/boxholder.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coil.png" width ="500"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/assembly.PNG" width ="300">
 
+We 3D printed the cover 2.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover1%20printed.jpeg" width ="300">
+
+It took 2 hours 10 mins and used 33g of PLA. We tried fitting the cover onto the PVC pipe. It was tightfitted onto the pipe, but i believe that it was too tight. The next day, a small crack appeared on the cover.
+
 After more considerations, we decided to have the entrance be horizontal. This allows us to use a smaller motor as the overall load would decrease. All the parts have been replaced or edited to be better, except the coil. These are the new parts.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover1%202.0.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Cover2%202.0.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/box2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/slope.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Assembly2.PNG" width ="300">
+
+We printed the new cover 1. This time, the diameters have been increased by 1mm as the previous print was too tight.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover1%202.0%20printed.jpegg" width ="300">
+
+The print failed 2 times. As there is a hole in the middle, the 3D printer drew a circle, but since the circle was too small, the circle kept moving whenever the nozzle went over it. So we changed the build plate adhesion from skirt, to raft. This allowed the circle to be connected to the raft and it didn't move anymore. This was fitted on to the PVC pipe and was just nice.
