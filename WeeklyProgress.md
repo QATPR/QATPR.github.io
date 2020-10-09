@@ -98,6 +98,8 @@ After more considerations, we decided to have the entrance be horizontal. This a
 
 We printed the new cover 1. This time, the diameters have been increased by 1mm as the previous print was too tight.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover1%202.0%20printed.jpeg" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover1%202.0%20printed.jpeg" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover2%202.0%20printed.jpeg" width ="300">
 
-The print failed 2 times. As there is a hole in the middle, the 3D printer drew a circle, but since the circle was too small, the circle kept moving whenever the nozzle went over it. So we changed the build plate adhesion from skirt, to raft. This allowed the circle to be connected to the raft and it didn't move anymore. This was fitted on to the PVC pipe and was just nice. This print took 2 hour 28 mins and 39g of PLA.
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover%20fitting.jpeg" width ="600">
+
+The print failed 2 times. As there is a hole in the middle, the 3D printer drew a circle, but since the circle was too small, the circle kept moving whenever the nozzle went over it. So we changed the build plate adhesion from skirt, to raft. This allowed the circle to be connected to the raft and it didn't move anymore. This was fitted on to the PVC pipe and was just nice. This print took 2 hour 28 mins and 39g of PLA. For the second cover, a simple skirt build plate adhesion was all that was needed. This print took 2 hour 23 mins and 25g of PLA. This cover also was fitted nicely onto the PVC pipe.
