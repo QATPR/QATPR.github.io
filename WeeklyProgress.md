@@ -103,3 +103,14 @@ We printed the new cover 1. This time, the diameters have been increased by 1mm 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/cover%20fitting.jpeg" width ="600">
 
 The print failed 2 times. As there is a hole in the middle, the 3D printer drew a circle, but since the circle was too small, the circle kept moving whenever the nozzle went over it. So we changed the build plate adhesion from skirt, to raft. This allowed the circle to be connected to the raft and it didn't move anymore. This was fitted on to the PVC pipe and was just nice. This print took 2 hour 28 mins and 39g of PLA. For the second cover, a simple skirt build plate adhesion was all that was needed. This print took 2 hour 23 mins and 25g of PLA. This cover also was fitted nicely onto the PVC pipe.
+
+For the coil, printing it is more difficult as it would require a lot of support when printing it as seen in the below image.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coil%20support.jpeg" width ="300">
+
+This would also take about 16 hours to print. So we had to make changes so that making it would be easier.
+This is the new design of the coil.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coil%20separate.PNG" width ="200">
+
+The new design has the coil sliced in half to that the printing would reduce the amount of supports and would be easier to print. To hold the 2 parts together, the are 2 holes to insert bolts and nuts. A groove is made for a cable tie to make sure the end doesn't move. Smaller edits include make the top end a bigger diameter to make sure that area doesn't break off.
