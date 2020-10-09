@@ -114,6 +114,7 @@ This is the new design of the coil.
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coil%20separate.PNG" width ="200">
 
 The new design has the coil sliced in half to that the printing would reduce the amount of supports and would be easier to print. To hold the 2 parts together, the are 2 holes to insert bolts and nuts. A groove is made for a cable tie to make sure the end doesn't move. Smaller edits include make the top end a bigger diameter to make sure that area doesn't break off.
-This one half of the coil printed. One edge of the coil was not printed properly, but should still be able to work.
+This one half of the coil printed. One edge of the coil was not printed properly, but should still be able to work. The is warping on the coil also as seen on the second image.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Lcoilprint.jpeg" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Lcoilprint.jpeg" width ="600"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coilwarp.jpeg" width ="400">
+
