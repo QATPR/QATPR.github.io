@@ -118,3 +118,18 @@ This one half of the coil printed. One edge of the coil was not printed properly
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Lcoilprint.jpeg" width ="600"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coilwarp.jpeg" width ="400">
 
+
+### Week 5 (12 Oct - 16 Oct)
+
+Jeren continued printing the other half of the coil.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Rcoilprint.jpeg" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coilAss.jpeg" width ="300">
+
+This print took 3 hour 30 minutes to print and took 39g of PLA. The 2 halves of the coils are secured together by 2 3mm machine screw.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/coilMisalign.jpeg" width ="300">
+
+As seen from the image, the halves are not aligned, which is caused by shinkage. Another problem is that the warping makes it so that the worm teeth of the coil doesnt touch the other side.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/warpbetween.jpeg" width ="300">
