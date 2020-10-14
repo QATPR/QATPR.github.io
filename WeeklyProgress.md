@@ -133,3 +133,5 @@ This print took 3 hour 30 minutes to print and took 39g of PLA. The 2 halves of 
 As seen from the image, the halves are not aligned, which is caused by shinkage. Another problem is that the warping makes it so that the worm teeth of the coil doesnt touch the other side.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/warpbetween.jpeg" width ="300">
+
+![Alt Text](https://media.giphy.com/media/03K3jda3EmUocBJ2DI/giphy.gif)
