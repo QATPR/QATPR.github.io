@@ -74,7 +74,8 @@ Top View
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Measuring%20mech2.jpeg" width ="600">
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20a.PNG" width ="600"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20b.PNG" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20a.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20b.PNG" width ="400">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20c.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20d.PNG" width ="400">
 
 How this works:
 After sorting the male and female fasteners at stage 1, the male fasteners will travel to stage 2, where they will be sorted by thread diameter. The fasteners will be lined up and travel in a sigle file line. They will then reach the revolver part, where the fasteners will be loaded one by one, as seen on the top view. The part will then rotate and arrive at the measuring area. A block will grip onto the thread using the tension of a tension band, then a laser range finder will measure the distance away from the block, then it will get the difference, allowing us to determine the thread diameter. ...
