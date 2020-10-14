@@ -134,4 +134,7 @@ As seen from the image, the halves are not aligned, which is caused by shinkage.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/warpbetween.jpeg" width ="300">
 
-![](https://giphy.com/gifs/03K3jda3EmUocBJ2DI/html5)
+The prototype of the stage 1 of the sorting was done. The walls were tight fitted onto the main board but was "cable tie"-ed down so that we wouldnt have to use acrylic glue, allowing us to make other changes to the walls if needed.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Prototype1.jpeg" width ="300">
+
