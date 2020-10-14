@@ -153,3 +153,4 @@ The prototype of the stage 1 of the sorting was done. The walls were tight fitte
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Prototype1.jpeg" width ="300">
 
+After testing we realised that there are many problems with the design. Firstly we realised that the 
