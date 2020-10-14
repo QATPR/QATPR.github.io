@@ -75,10 +75,15 @@ Top View
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Measuring%20mech2.jpeg" width ="600">
 
 Rotation of individual male fastener to measuring area
+
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20a.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20b.PNG" width ="400">
+
 Clamping process to measure thread diameter
+
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20c.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20d.PNG" width ="400">
+
 Rotation to dispense to compartments
+
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%201%20e.PNG" width ="400">
 
 How this works:
