@@ -153,4 +153,6 @@ The prototype of the stage 1 of the sorting was done. The walls were tight fitte
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Prototype1.jpeg" width ="300">
 
-After testing we realised that there are many problems with the design. Firstly we realised that the 
+After testing we realised that there are many problems with the design. 
+Firstly we realised that the steepness of the walls is not steep enough.The fasteners do not move down the walls fast enough, causing blockage when more fasteners are dispensed from above, jamming the whole system.
+Secondly, some fasteners keeps getting jammed because the walls sometimes bends due to the vibration , randomly causing some fasteners to get stuck in between the walls. This, though, is partly due to the flexible nature of the acrylic walls.In the actual product we intend to use aluminium for the walls and board and make support structures for the board to further make the whole structure rigid.
