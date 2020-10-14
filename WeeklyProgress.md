@@ -134,4 +134,4 @@ As seen from the image, the halves are not aligned, which is caused by shinkage.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/warpbetween.jpeg" width ="300">
 
-![](https://media.giphy.com/media/03K3jda3EmUocBJ2DI/giphy.gif)
+![](https://giphy.com/gifs/03K3jda3EmUocBJ2DI/html5)
