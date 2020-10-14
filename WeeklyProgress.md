@@ -51,7 +51,11 @@ Our team decided that the sorter would have two phases. The first phase is to so
 
 [https://youtu.be/H19S197kgXA]
 
-We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable. We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.
+We chose this because it was a simple mechanism to fabricate and we believed it would be quite precise and reliable. We further developed this concept. We realised that one of the conditions we had to work on is the speed of loading the fasteners. This is because if the fasteners entered too fast, jamming would occur. So Jeren was tasked with making the entrance for the fastener sorter. Faaris worked on the actual sorting part of the sorter, and Tze Pin worked on the vibration module of the sorter. The vibration module is required as it unjams them and helps them move as well.Below is a 3d modelled concept.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%202%20b.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%202%20a.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Stage%202%20c.PNG" width ="300">
 
 For the entrance, we decide to use a coil. The coil would be able to separate the fasteners into smaller groups and push them into the sorter, allowing them to enter at a slower and constant speed, leading to less jamming occurring. Additional parts required are a tube that holds the coil, covers for both sides of the tube, a box for the user to load the fasteners and something to hole the box in place. For the tube that holds the coil, we decided to use a PVC pipe. We went to a hardware shop in Clementi and bought one.
 
