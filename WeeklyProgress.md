@@ -162,7 +162,7 @@ Secondly, some fasteners keeps getting jammed because the walls sometimes bends 
 
 Our group decided that we needed to conduct an angle test of the walls to best determine which angle is best quickly displaces the fasteners to their allocated compartment to address the problems faced the previous week. Thus we came up with an aluminium angle testing board.The board have multiple holes angled in increments of 5 degrees to mount the walls for testing, along with the holes to mount the vibrator offcourse.Below is an image.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Aluminium%20Angle%20Test%20Photo.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Aluminium%20Angle%20Test%20Photo.PNG" width ="500">
 
 We decided to use the water jet to cut out our aluminium board. One thing we have to account for is to make space so that we are able to put a weight onto the aluminium piece. As a lot of water if being sprayed out, the water level in the water jet will rise causing the aluminium to float, which will make it move. So we have to put a weight on the piece. 
 
