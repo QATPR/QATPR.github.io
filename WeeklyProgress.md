@@ -156,3 +156,16 @@ The prototype of the stage 1 of the sorting was done. The walls were tight fitte
 After testing we realised that there are many problems with the design. 
 Firstly we realised that the steepness of the walls is not steep enough.The fasteners do not move down the walls fast enough, causing blockage when more fasteners are dispensed from above, jamming the whole system.
 Secondly, some fasteners keeps getting jammed because the walls sometimes bends due to the vibration , randomly causing some fasteners to get stuck in between the walls. This, though, is partly due to the flexible nature of the acrylic walls.In the actual product we intend to use aluminium for the walls and board and make support structures for the board to further make the whole structure rigid.
+
+
+### Week 6 (19 Oct - 23 Oct)
+
+We decided to use the water jet to cut out our aluminium board. One thing we have to account for is to make space so that we are able to put a weight onto the aluminium piece. As a lot of water if being sprayed out, the water level in the water jet will rise causing the aluminium to float, which will make it move. So we have to put a weight on the piece. 
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/waterjet%20weightmove2.PNG" width ="450">
+
+If there are holes on both sides of the piece, After cutting one part of the piece, we would then have to move the weight to the other side, allowing the water jet cut the part that was covered by the weight, allowing us to cut the entire piece while having a weight holding it down. We also have to make sure the work piece doesn't move when moving the weight.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/waterjet%20nozzle.PNG" width ="200">
+
+Another thing to keep in mind is that when the nozzle sprays the water out, it won't be straight. It will actually move away from the centre line at a small angle. Because of this, when the work piece is cut, it will not be 90° (perpendicular to the surface), but would be slanted by about 1°. However, because we would be using the piece with a thickness of only 2mm, the angle change wouldn't affect anything big.
