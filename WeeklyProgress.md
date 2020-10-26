@@ -47,7 +47,7 @@ This week we measured the fasteners in the box and created concept sketches. We 
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure1.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure2.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/MaleMeasure3.PNG" width ="300">
 
-Our team decided that the sorter would have two phases. The first phase is to sort the large male, small male and female parts. The second phase is to sort the male parts based on their thread diameters. From this we came up with concepts. Below is a concept for the first phase which we drew inspiration from one of our research. This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls.
+Our team decided that the sorter would have two stages. The first stage is to sort the large male, small male and female parts. The second stage is to sort the male parts based on their thread diameters. From this we came up with concepts. Below is a concept for the first stage which we drew inspiration from one of our research. This method is quite a simple and low cost gravity assisted sorter, where a few walls with deviating height tolerances catches different sized male fasteners based on the outer diameter of the screws, with the thin washers being able to pass through all the walls.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Concept%201F.png" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTeam/Fastener%20Sorter%203.PNG" width ="700">
 
@@ -175,3 +175,7 @@ If there are holes on both sides of the piece, After cutting one part of the pie
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/waterjet%20nozzle.PNG" width ="200">
 
 Another thing to keep in mind is that when the nozzle sprays the water out, it won't be straight. It will actually move away from the centre line at a small angle. Because of this, when the work piece is cut, it will not be 90° (perpendicular to the surface), but would be slanted by about 1°. However, because we would be using the piece with a thickness of only 2mm, the angle change wouldn't affect anything big.
+
+### Week 7 (26 Oct - 30 Oct)
+
+This week our objective is to water jet cut our angle test prototype and working on stage 2 design. We feel that the stage 2 design might not be appealing as it may be too slow.Our group decided that we have to come up with new designs.Tze Pin continued working on the rasberry pie. Meanwhile Faaris and jeren worked on the water jet cutter and milling of the components of the angle test prototype as seen in the pictures in week 6, which inlcude the base plate, brackets and walls. Below is a link to our bracket drawing and fabrication procedure as required for the fabrication.
