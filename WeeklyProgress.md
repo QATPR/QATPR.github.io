@@ -184,3 +184,13 @@ This week our objective is to water jet cut our angle test prototype and working
 
 
 Faaris and Jeren then started designing and drawing the new stage 2 design.
+
+#### Tuesday
+
+#### Wednesday
+
+#### Thursday
+
+#### Friday
+
+
