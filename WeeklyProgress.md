@@ -185,7 +185,9 @@ This week our objective is to water jet cut our angle test prototype and working
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/python3.JPG" width ="300"><br>
 Continued Progress on Python3 programing<p>
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/pi1.jpeg" width ="300"><br>
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/pi1.jpeg" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/idle1.jpeg" width ="300"><br>
+
 Rasberry Pi connected to screen with mouse and keyboard. <br>
 Tze pin was unable to get the motors working and went to research other programs.
 
