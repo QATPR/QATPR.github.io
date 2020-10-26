@@ -179,3 +179,6 @@ Another thing to keep in mind is that when the nozzle sprays the water out, it w
 ### Week 7 (26 Oct - 30 Oct)
 
 This week our objective is to water jet cut our angle test prototype and working on stage 2 design. We feel that the stage 2 design might not be appealing as it may be too slow.Our group decided that we have to come up with new designs.Tze Pin continued working on the rasberry pie. Meanwhile Faaris and jeren worked on the water jet cutter and milling of the components of the angle test prototype as seen in the pictures in week 6, which inlcude the base plate, brackets and walls. Below is a link to our bracket drawing and fabrication procedure as required for the fabrication.
+
+
+Faaris and Jeren then started designing and drawing the new stage 2 design.
