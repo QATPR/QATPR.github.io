@@ -176,6 +176,22 @@ If there are holes on both sides of the piece, After cutting one part of the pie
 
 Another thing to keep in mind is that when the nozzle sprays the water out, it won't be straight. It will actually move away from the centre line at a small angle. Because of this, when the work piece is cut, it will not be 90° (perpendicular to the surface), but would be slanted by about 1°. However, because we would be using the piece with a thickness of only 2mm, the angle change wouldn't affect anything big.
 
+####Friday 
+
+On the night prior Jeren made the drawings for the brackets.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Bracket%20Drawing.PNG" width ="400">
+
+Faaris made the fabrication procedure for the brackets.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Wall%20Bracket.PNG" width ="300">
+
+We also made the .dxf file for the water jetting on Friday, the .dxf file is basically just the sketch of the path we want the machine to cut (purple line).
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/angletestplateDXF.PNG" width ="300">
+Faaris and Jeren started machining the 2 brackets. But since we only borrowed 1 milling machine, we had to share the machine. In the end we only managed to finish 1 bracket.
+We passed the Angle Test Plate dxf file to Mr Sng to cut for us using the water jet. We wanted to be there but unfortunatly we had class. We went to collect the angle test plate from Mr Sng after class but because the drawing didn't have the outline of the aluminium piece. Because of the missing lines, Mr Sng could'nt figure out what orientation to put the aluminium piece. So it wasn't cut and left for the next week to continue.
+
 ### Week 7 (26 Oct - 30 Oct) Prototyping of angle test
 
 This week our objective is to water jet cut our angle test prototype and working on stage 2 design. We feel that the stage 2 design might not be appealing as it may be too slow.Our group decided that we have to come up with new designs. Meanwhile Faaris and jeren worked on the water jet cutter and milling of the components of the angle test prototype as seen in the pictures in week 6, which inlcude the base plate, brackets and walls.
@@ -204,25 +220,11 @@ Today we machined out the angle test prototype using the water jet cutter.
 
 Later on at night we did the following:
 
-Jeren made the drawings for the brackets.
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Bracket%20Drawing.PNG" width ="400">
-
-Faaris made the fabrication procedure for the brackets.
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Wall%20Bracket.PNG" width ="300">
-
-We also made the .dxf file for the water jetting on Friday, the .dxf file is basically just the sketch of the path we want the machine to cut (purple line).
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/angletestplateDXF.PNG" width ="300">
 
 
-Faaris and Jeren started machining the 2 brackets. But since we only borrowed 1 milling machine, we had to share the machine. In the end we only managed to finish 1 bracket.
-We passed the Angle Test Plate dxf file to Mr Sng to cut for us using the water jet. We wanted to be there but unfortunatly we had class. We went to collect the angle test plate from Mr Sng after class but because the drawing didn't have the outline of the aluminium piece. Because of the missing lines, Mr Sng could'nt figure out what orientation to put the aluminium piece. So it wasn't cut and left for the next week to continue.
 
 
 #### Thursday
 
-Faaris and Jeren started machining the 2 brackets. But since we only borrowed 1 milling machine, we had to share the machine. In the end we only managed to finish 1 bracket.
-We passed the Angle Test Plate dxf file to Mr Sng to cut for us using the water jet. We wanted to be there but unfortunatly we had class. We went to collect the angle test plate from Mr Sng after class but because the drawing didn't have the outline of the aluminium piece. Because of the missing lines, Mr Sng could'nt figure out what orientation to put the aluminium piece. So it wasn't cut and left for the next week to continue.
+
 #### Friday
