@@ -259,5 +259,6 @@ Faaris did the fabrication procedure for both the test walls
 
 #### Thursday
 
+Today, we fabricated the test walls according to the fabrication procedures and drawings. After fabricating them, we assembled the Angle Test. We realised that some of the fastneres are still getting jammed. This is most likely becaust the angle test plate and test wall were not as sturdy as we thought and could bend, allowing some fasteners to go under the test wall and get jammed.
 
 #### Friday
