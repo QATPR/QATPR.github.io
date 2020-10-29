@@ -195,15 +195,11 @@ We passed the Angle Test Plate dxf file to Mr Sng to cut for us using the water 
 ### Week 7 (26 Oct - 30 Oct) Prototyping of angle test
 
 This week our objective is to water jet cut our angle test prototype and working on stage 2 design. We feel that the stage 2 design might not be appealing as it may be too slow.Our group decided that we have to come up with new designs. Meanwhile Faaris and jeren worked on the water jet cutter and milling of the components of the angle test prototype as seen in the pictures in week 6, which inlcude the base plate, brackets and walls.
+
 #### Monday
 
-Faaris and Jeren finished machining out the brackets for the angle test. It was done by milling.
-
-Below is a link to our bracket drawing and fabrication procedure as required for the fabrication.
-
-
-
 Faaris and Jeren then started designing and drawing the new stage 2 design.
+
 Tze Pin continued working on the rasberry pie.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/python3.JPG" width ="300"><br>
@@ -213,16 +209,53 @@ Continued Progress on Python3 programing<p>
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/idle1.jpeg" width ="300"><br>
 Rasberry Pi connected to screen with mouse and keyboard. <br>
 Tze pin was unable to get the motors working and went to research other programs.
+
 #### Tuesday
 
+Faaris and Jeren finished machining out the brackets for the angle test. It was done by milling.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Machined%20brackets.jpeg" width ="300">
+
+Below is a link to our bracket drawing and fabrication procedure as required for the fabrication.
+
+Jeren met with Mr Sng. Mr Sng explained why the outline is important. The outline is needed because unlike a miling machine, the cutter is not solid. A milling cutter can find the edge of the piece by touching the edge of the work piece , but because the water jet uses water, it cannot touch the edge. So the outline is used to find the homing position for the machine. The reason we didn't include the outline in the first place was because we believed that since the water jet would cut the places with the line, and didn't need the jet to cut the edge of the work piece, and didn't think of the homing position.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Waterjet%20Homing.PNG" width ="400">
+
+Mr Sng informed us that the next day he would be free to help us with the water jet. So we made the necessary changes. The .dxf now included the outline of the aluminium piece. 
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/angletestplatedxfUpdate.PNG" width ="300">
+
+Jeren also made the drawing of the Angle Test plate for Mr Sng to reference to.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Angle%20test%20plate%20drawing.PNG" width ="300">
+
+Jeren came up with an idea for stage 2. However, because the tolerance is pretty small, theres a high chance for it to get jammed.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/S2ideation%2C.jpeg" width ="300">
+
+Faaris then came up with an idea . Its basically like a vernier calliper. The bolts and screw enter a wheel like from Jeren's idea then at one side, a mechanism measures the thread diameter of the fastener. It measures the thread when the fastener passes a wheel, which get push back. The distance pushed back is then measured, like a vernier calliper. After measureing the thread, a programme decides where the fastener ends up according to the measured value.
+
+**idea drawing**
+
+Jeren then started modelling the wheel.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/S2wheel1.PNG" width ="300">
+
 #### Wednesday
-Today we machined out the angle test prototype using the water jet cutter.
+
+Today we machined out the angle test prototype using the water jet cutter. We met with Mr Sng in the afternoon to discuss the fabrication. A problem surfaced. Because of the homing of the water jet, the aluminium piece actually has to be bigger than what we wanted to cut out. So we had to make the angle test plate smaller by 10mm on each side, making it 415 x 400 mm. Most of the holes had to be moved as well. After showing Mr Sng the new drawing, we proceeded to cut. 
 
 Later on at night we did the following:
 
+Jeren did the drawings for both the test walls
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Test%20Wall%2012mm.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Test%20Wall%206mm.PNG" width ="300">
 
+Faaris did the fabrication procedure for both the test walls
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Test%20Wall%2012mm.PNG" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Test%20Wall%206mm.PNG" width ="200">
 
 #### Thursday
 
