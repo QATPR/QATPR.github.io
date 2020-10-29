@@ -250,12 +250,12 @@ Later on at night we did the following:
 
 Jeren did the drawings for both the test walls
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Test%20Wall%2012mm.PNG" width ="300">
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Test%20Wall%206mm.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Test%20Wall%2012mm.PNG" width ="400">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Test%20Wall%206mm.PNG" width ="400">
 
 Faaris did the fabrication procedure for both the test walls
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Test%20Wall%2012mm.PNG" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Test%20Wall%206mm.PNG" width ="200">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Test%20Wall%2012mm.PNG" width ="300"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Test%20Wall%206mm.PNG" width ="300">
 
 #### Thursday
 
