@@ -176,24 +176,27 @@ If there are holes on both sides of the piece, After cutting one part of the pie
 
 Another thing to keep in mind is that when the nozzle sprays the water out, it won't be straight. It will actually move away from the centre line at a small angle. Because of this, when the work piece is cut, it will not be 90° (perpendicular to the surface), but would be slanted by about 1°. However, because we would be using the piece with a thickness of only 2mm, the angle change wouldn't affect anything big.
 
-### Week 7 (26 Oct - 30 Oct) Prototyping of an
+### Week 7 (26 Oct - 30 Oct) Prototyping of angle test
 
+This week our objective is to water jet cut our angle test prototype and working on stage 2 design. We feel that the stage 2 design might not be appealing as it may be too slow.Our group decided that we have to come up with new designs. Meanwhile Faaris and jeren worked on the water jet cutter and milling of the components of the angle test prototype as seen in the pictures in week 6, which inlcude the base plate, brackets and walls.
 #### Monday
 
-This week our objective is to water jet cut our angle test prototype and working on stage 2 design. We feel that the stage 2 design might not be appealing as it may be too slow.Our group decided that we have to come up with new designs.Tze Pin continued working on the rasberry pie. Meanwhile Faaris and jeren worked on the water jet cutter and milling of the components of the angle test prototype as seen in the pictures in week 6, which inlcude the base plate, brackets and walls. Below is a link to our bracket drawing and fabrication procedure as required for the fabrication.
+Faaris and Jeren finished machining out the brackets for the angle test. It was done by milling.
+
+Below is a link to our bracket drawing and fabrication procedure as required for the fabrication.
+
+
+
+Faaris and Jeren then started designing and drawing the new stage 2 design.
+Tze Pin continued working on the rasberry pie.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/python3.JPG" width ="300"><br>
 Continued Progress on Python3 programing<p>
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/pi1.jpeg" width ="300">
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/idle1.jpeg" width ="300"><br>
-
 Rasberry Pi connected to screen with mouse and keyboard. <br>
 Tze pin was unable to get the motors working and went to research other programs.
-
-Faaris and Jeren then started designing and drawing the new stage 2 design.
-
-Faaris and Jeren finished machining out the brackets for the angle test. It was done by milling.
 #### Tuesday
 
 #### Wednesday
