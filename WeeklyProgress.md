@@ -176,7 +176,7 @@ If there are holes on both sides of the piece, After cutting one part of the pie
 
 Another thing to keep in mind is that when the nozzle sprays the water out, it won't be straight. It will actually move away from the centre line at a small angle. Because of this, when the work piece is cut, it will not be 90° (perpendicular to the surface), but would be slanted by about 1°. However, because we would be using the piece with a thickness of only 2mm, the angle change wouldn't affect anything big.
 
-####Friday 
+#### Friday 
 
 On the night prior Jeren made the drawings for the brackets.
 
@@ -186,7 +186,7 @@ Faaris made the fabrication procedure for the brackets.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Fabrication%20Procedure%20Worksheet%20Wall%20Bracket.PNG" width ="300">
 
-We also made the .dxf file for the water jetting on Friday, the .dxf file is basically just the sketch of the path we want the machine to cut (purple line).
+We also made the .dxf file for the water jetting. The .dxf file is basically just the sketch of the path we want the machine to cut (purple line).
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/angletestplateDXF.PNG" width ="300">
 Faaris and Jeren started machining the 2 brackets. But since we only borrowed 1 milling machine, we had to share the machine. In the end we only managed to finish 1 bracket.
