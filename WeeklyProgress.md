@@ -259,7 +259,7 @@ Faaris did the fabrication procedure for both the test walls
 
 #### Thursday
 
-Today, we fabricated the test walls according to the fabrication procedures and drawings. After fabricating them, we assembled the Angle Test. We realised that some of the fastneres are still getting jammed. This is most likely becaust the angle test plate and test wall were not as sturdy as we thought and could bend, allowing some fasteners to sometimes randomly be ablt to go under the test wall and get jammed.
+Today, we fabricated the test walls according to the fabrication procedures and drawings. After fabricating them, we assembled the Angle Test. We realised that some of the fastneres are still getting jammed. This is most likely becaust the angle test plate and test wall were not as sturdy as we thought and could bend, allowing some fasteners to sometimes randomly be ablt to go under the test wall and get jammed. At this point no matter the angle we set the walls to, the fasteners will always be prone to jamming.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/assembled%20angle%20test%20prototype.jpg" width ="400">
 
