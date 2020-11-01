@@ -259,11 +259,17 @@ Faaris did the fabrication procedure for both the test walls
 
 #### Thursday
 
-Today, we fabricated the test walls according to the fabrication procedures and drawings. After fabricating them, we assembled the Angle Test. We realised that some of the fastneres are still getting jammed. This is most likely becaust the angle test plate and test wall were not as sturdy as we thought and could bend, allowing some fasteners to go under the test wall and get jammed.
+Today, we fabricated the test walls according to the fabrication procedures and drawings. After fabricating them, we assembled the Angle Test. We realised that some of the fastneres are still getting jammed. This is most likely becaust the angle test plate and test wall were not as sturdy as we thought and could bend, allowing some fasteners to sometimes randomly be ablt to go under the test wall and get jammed.
+
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/assembled%20angle%20test%20prototype.jpg" width ="400">
 
 Handsome photo of Faaris machining
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Aluminium%20Angle%20Test%20Photo.PNG" width ="400">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Faaris%20milling.jpg" width ="400">
 
 
 #### Friday
+
+#### Conclusion
+
+This week we realised that our current stage 1 idea is not good and need redesigning.Thus, next week we will need to come up with a new design for the stage 1 idea based on the things we have learnt. We need to come up with a design that is fail proof. 
