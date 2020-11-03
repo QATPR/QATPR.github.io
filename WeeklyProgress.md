@@ -273,3 +273,14 @@ Handsome photo of Faaris machining
 #### Conclusion
 
 This week we realised that our current stage 1 idea is not good and need redesigning.Thus, next week we will need to come up with a new design for the stage 1 idea based on the things we have learnt. We need to come up with a design that is fail proof. 
+
+### Week 7 (2 Nov - 6 Nov) Redesign of stage 1 and stage 2
+
+#### Monday
+
+Today we stayed at home. Faaris worked on the stage 1 re-design
+
+<img src="
+https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20A.JPG" width ="400"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20B.JPG" width ="400">
+
+
