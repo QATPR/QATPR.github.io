@@ -282,4 +282,6 @@ Today we stayed at home. Faaris worked on the stage 1 re-design
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20A.JPG" width ="400"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20B.JPG" width ="400">
 
-
+#### Tuesday
+ 
+Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design.Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
