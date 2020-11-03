@@ -280,7 +280,6 @@ This week we realised that our current stage 1 idea is not good and need redesig
 
 Today we stayed at home. Faaris worked on the stage 1 re-design
 
-<img src="
-https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20A.JPG" width ="400"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20B.JPG" width ="400">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20A.JPG" width ="400"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20B.JPG" width ="400">
 
 
