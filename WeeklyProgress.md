@@ -301,3 +301,9 @@ Jeren:
 Jeren worked on the wheel for measuring the screw thread diameter. Below is the assembly of it.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/PartialWheel.PNG" width ="400">
+
+#### Wednesday
+
+Today Jeren continued working on stage 2. He modelled and assembled the 2 parts of stage 2. Some parts from the previous partial assembly has been edited to fit together with today's partial assembly height-wise. A curved slope was also made to be used to push out the fastener after measuring.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/FastenerTurner.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Stage2Assembly.PNG" width ="400">
