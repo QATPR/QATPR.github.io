@@ -284,13 +284,18 @@ Faaris worked on the stage 1 re-design
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20A.JPG" width ="400"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20B.JPG" width ="400">
 
-Jeren started on modelling stage 2.
+Jeren started on sketching and  modelling stage 2.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesigned%20Stage%201%20Concept%20Sketch%20ok.jpg" width ="600">
+
+How this design wokrs?
+As seen in the sketch, fasteners will be dispensed on the slots of the fastener carousel. As the carousel spins, the body of the fasteners will come in contact of the rollers and will be rolled over by the rollers, thus displacing the rollers that is connected to a linear rod.From there we can measure the difference between the before and after dispacement of the rollers like a vernier caliper, thus be able to indentify the thread diameter of the fasteners in question.
 #### Tuesday
  
+ Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design. Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
+ 
 Faaris:
-Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design. Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesigned%20Stage%201%20Concept%20Sketch%20ok.jpg" width ="400">
+Faaris worked further on the stage 1 design and did touch ups
 
 Jeren:
 Jeren worked on the wheel for measuring the screw thread diameter. Below is the assembly of it.
