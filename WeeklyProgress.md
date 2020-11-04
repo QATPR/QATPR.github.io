@@ -278,10 +278,19 @@ This week we realised that our current stage 1 idea is not good and need redesig
 
 #### Monday
 
-Today we stayed at home. Faaris worked on the stage 1 re-design
+Today we stayed at home. 
+
+Faaris worked on the stage 1 re-design
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20A.JPG" width ="400"> <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesign%20stage%201%20photo%20B.JPG" width ="400">
 
+Jeren started on modelling stage 2.
 #### Tuesday
  
-Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design.Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
+Faaris:
+Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design. Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
+
+Jeren:
+Jeren worked on the wheel for measuring the screw thread diameter. Below is the assembly of it.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/PartialWheel.PNG" width ="400">
