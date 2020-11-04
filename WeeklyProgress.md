@@ -290,6 +290,8 @@ Jeren started on modelling stage 2.
 Faaris:
 Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design. Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Redesigned%20Stage%201%20Concept%20Sketch.jpg" width ="400">
+
 Jeren:
 Jeren worked on the wheel for measuring the screw thread diameter. Below is the assembly of it.
 
