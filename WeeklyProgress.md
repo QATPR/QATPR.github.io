@@ -310,4 +310,19 @@ Today Jeren continued working on stage 2. He modelled and assembled the 2 parts 
 
 #### Thursday
 
-Today Jeren researched on encoders as he thought that they could be used to determine the diameters. The website used for the research is by [Asahi Kasei Microdevices (AKM)](https://www.akm.com/kr/ko/technology/technical-tutorial/basic-knowledge-encoder/type-mechanism-1/)
+Today Jeren researched on encoders as he thought that they could be used to determine the diameters. The website used for the research is by Asahi Kasei Microdevices (AKM) titled [Encoders Types and Mechanisms](https://www.akm.com/kr/ko/technology/technical-tutorial/basic-knowledge-encoder/type-mechanism-1/).
+Here is a summary of what Jeren has read:
+
+Mechanical type (potentiometer)
+Detects the rotational position using a variable resistor.
+
+Optical type
+Uses light sensor to sense light passing through a slit in a rotating disk (code wheel)
+
+Magnetic type
+Uses a magnetic sensor to measure magnetic field distribution of a magnet on a rotating shaft
+
+Electromagnetic induction type
+Reads changes in the magnetic field generated between the induction coil and fixed coil on a rotating shaft.
+
+We believe that the mechanical type would be the best for us to use in our prodject as it uses a relatively easy concept where the the rotational position of the potentiometer is proportional to the output voltage. Then we would use the voltage to determine the diameter.
