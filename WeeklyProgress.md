@@ -274,7 +274,7 @@ Handsome photo of Faaris machining
 
 This week we realised that our current stage 1 idea is not good and need redesigning.Thus, next week we will need to come up with a new design for the stage 1 idea based on the things we have learnt. We need to come up with a design that is fail proof. 
 
-### Week 7 (2 Nov - 6 Nov) Redesign of stage 1 and stage 2
+### Week 8 (2 Nov - 6 Nov) Redesign of stage 1 and stage 2
 
 #### Monday
 
@@ -290,9 +290,10 @@ Jeren started on sketching and  modelling stage 2.
 
 How this design wokrs?
 As seen in the sketch, fasteners will be dispensed on the slots of the fastener carousel. As the carousel spins, the body of the fasteners will come in contact of the rollers and will be rolled over by the rollers, thus displacing the rollers that is connected to a linear rod.From there we can measure the difference between the before and after dispacement of the rollers like a vernier caliper, thus be able to indentify the thread diameter of the fasteners in question.
+
 #### Tuesday
  
- Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design. Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
+Today Faaris worked further on the stage 1 design while Jeren worked on the stage 2 design. Due to technical difficulties, we decided to revert to arduino because we face difficulties and we were taking too long.
  
 Faaris:
 Faaris worked further on the stage 1 design and did touch ups
@@ -304,7 +305,7 @@ Jeren worked on the wheel for measuring the screw thread diameter. Below is the 
 
 #### Wednesday
 
-Today Jeren continued working on stage 2. He modelled and assembled the 2 parts of stage 2. Some parts from the previous partial assembly has been edited to fit together with today's partial assembly height-wise. A curved slope was also made to be used to push out the fastener after measuring.
+Today Jeren continued working on Stage 2. He modelled and assembled the 2 parts of stage 2. Some parts from the previous partial assembly has been edited to fit together with today's partial assembly height-wise. A curved slope was also made to be used to push out the fastener after measuring.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/FastenerTurner.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Stage2Assembly.PNG" width ="400">
 
@@ -326,3 +327,36 @@ Electromagnetic induction type
 Reads changes in the magnetic field generated between the induction coil and fixed coil on a rotating shaft.
 
 We believe that the mechanical type would be the best for us to use in our prodject as it uses a relatively easy concept where the the rotational position of the potentiometer is proportional to the output voltage. Then we would use the voltage to determine the diameter.
+
+#### Friday
+
+Jeren printed the bottom wheel part of the carousel.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/BottomWheel.jpeg" width ="300">
+
+We also bought a spring that would be used in the measuring system of Stage 2.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/BottomWheel.jpeg" width ="300">
+
+### Week 9 (2 Nov - 6 Nov)
+
+#### Monday
+
+We worked from home today. We further developed Stage 1 and Stage 2.
+More specifically, Jeren worked on the measuring part of Stage 2. Possible ways to turn the potentiometer according to the thread diameter are rack and pinion and conveyer belt. The rack and pinion route is chosen as the conveyer belt would require a tensioner and the tightness of the belt would be affected by the vibrations.
+
+#### Tuesday
+
+Jeren drew out the concept sketch of the measuring system.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/MeasurementIdeaDrawing.jpg" width ="400">
+
+Faaris brought up that when using the gears to turn the potentiometer, it ould be better to increase the range of resistances to 1 size, meaning that we would have to use the distance pushed back by the given fastener to make the angle turned bigger. To do this we decided to use gears of two sizes. The rack would turn the small gear and a bigger gear on the same axis of the small gear will turn another gear connected to the potentiometer.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Gears.jpg" width ="400">
+
+Jeren printed out the slope that pushes out the fasteners after measuring and the wheel holder for the measuring wheel.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Slope.jpg" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelHolder.jpg" width ="200">
+
+Jeren worked on modelling the measuring system of Stage 2.
