@@ -341,6 +341,11 @@ We also bought a spring that would be used in the measuring system of Stage 2.
 We tested the new stage 1 design.This is the link to the video
 (https://drive.google.com/file/d/1WKICuxvPt4oRHUXP7yE59Ezgs43vQa86/view?usp=sharing)
 
+#### Conclusion of stage 1 design testing
+
+We realise the new design might be prone to have dimensional inaccuracies. This is because the manufacturing process of milling and drilling might make the walls offset slightly, especially since the current design have the walls to be angled. Faaris realise that we need a better design which includes use of more accurate machines such as metal laser cutters whihch can facilitate in ensuring the gaps between walls where the fasteners are sliding through is the dimension we intended. The design also needs to be improved to be more rigid for the walls. From out test, the vibration causes the walls to bend and thus occasionally opens wider, causing larger fastener thread sizes to slip though and get stuck. However this may be due to the acrylic nature of the prototype walls to be bendy.Nevertheless we will make sure the improved design will be rigid by means of more supports.
+
+
 ### Week 9 (2 Nov - 6 Nov)
 
 #### Monday
@@ -363,3 +368,7 @@ Jeren printed out the slope that pushes out the fasteners after measuring and th
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Slope.jpg" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelHolder.jpg" width ="200">
 
 Jeren worked on modelling the measuring system of Stage 2.
+
+#### Rest of the week
+
+We surveyed the materials in the workshop that can possibly be used in our product.
