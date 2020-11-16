@@ -338,6 +338,9 @@ We also bought a spring that would be used in the measuring system of Stage 2.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/BottomWheel.jpeg" width ="300">
 
+We tested the new stage 1 design.This is the link to the video
+(https://drive.google.com/file/d/1WKICuxvPt4oRHUXP7yE59Ezgs43vQa86/view?usp=sharing)
+
 ### Week 9 (2 Nov - 6 Nov)
 
 #### Monday
