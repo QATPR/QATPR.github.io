@@ -416,18 +416,46 @@ The Wheel Assembly is now connected to the GearTrain Assembly with the use of a 
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAss%20to%20GearAss.PNG" width ="200">
 
+Jeren made the drawings for the wheel axle and sring rod of the Wheel Assembly.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAxle%20drawing.PNG" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/SpringRod%20drawing.PNG" width ="200">
+
 #### Friday
+
+Jeren printed the rod adapter from the Wheel Assembly.
+
+<img src="*insert the rod adapter image*" width ="200">
+
+We went to the workshop to try to machine. Jeren wanted to make the wheel axle and spring rod from the Wheel Assembly. We originally planned to use 12mm and 8mm linear guide shafts but it turns out that it was made to be very had so machining them out be very hard. So we found a 12.7mm aluminium rod. Though we found the material, we couldn't machine it yet as we had to wait for our supervisor to sign out the material, so machining had to wait.
 
 ### Week 11 (16 Nov - 20 Nov)
 
 #### Monday
 
+We started working on the report at home. We did it together over Discord.
+
 #### Tuesday
+
+Jeren started machining the spring rod and wheel axle to size. Unfortunately, the first wheel axle failed due to some miscalculation and had to be redone. 1 trouble Jeren ran in to is that he didnt realise that the boring bar was angle to much, cauing the bar itself to rub against the material. Luckily, the rod wasn't cut to size yet anf the finish was still acceptable. Due to time constraints, only the lathing was done, while the tapping and milling had to be left for the next day.
 
 #### Wednesday
 
+Jeren continued machining the spring rod and the wheel axle ( tapping and milling ).
+
+<img src="*insert image of spring rod*" width ="200"><img src="*insert image of wheel axle*" width ="200">
+
 #### Thursday
 
+Jeren assembled Wheel Assembly with the created parts. 1 issue he came across is that the rod adapter and spring rod was not smoothly assembled. Probably due to some 3D printing shrinkage, the hole the spring rod would enter became too small. In the end had to hammer in the rod.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheel%20half%20ass.jpeg" width ="200">
+
+Another issue is that the wheel doesn't turn smoothly. Lubricant was added to the wheel, the performance improved but since the top surface of the wheel isn't held down, it casue the turning motion to be unstable.
+
 #### Friday
+
+Jeren modelled a sorting system for Stage 2 that makes use of a servo.
+
+<img src="" width ="200">
 
 ### Week 12 (23 Nov - 27 Nov)
