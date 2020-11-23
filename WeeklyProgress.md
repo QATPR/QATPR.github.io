@@ -386,10 +386,29 @@ All the gear CAD models were from McMaster-Carr Component, an option in fusion t
 
 Jeren futher developed the GearTrain Assembly. He made the gear rack extrude downwards. This is so that the gear rack wouldn't be floating and would be able to rest on the base surface.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20V1.PNG" width ="200"> 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20V2.PNG" width ="200"> 
+
+With the gear rack extruding through the base, a hole was created in the base as a guide for the gear rack to move, making sure it only move linearly.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearrack%20slot.PNG" width ="200">
+
 #### Wednesday
 
+Jeren made caps for the GearTrain Assembly to allow the gear to rotate on the axis.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20endcap.PNG" width ="200">
+
+The caps are put on both sides of the gear, through the brackets.
+
 #### Thursday
+
+Jeren modelled the other half of the GearTrain Assembly that includes another gear and the potentiometer.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20potentio.PNG" width ="200">
+
+This part of the assembly would be connected under the other half of the GearTrain Assembly, through the base plate. 1 small edit is that the holes for the hole on the base of the brackets have been increased to fit the bottom bracket ( centre of the holes changed from 15mm to 25 mm ).
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20full.PNG" width ="200">
 
 #### Friday
 
