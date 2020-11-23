@@ -236,8 +236,6 @@ Jeren came up with an idea for stage 2. However, because the tolerance is pretty
 
 Faaris then came up with an idea . Its basically like a vernier calliper. The bolts and screw enter a wheel like from Jeren's idea then at one side, a mechanism measures the thread diameter of the fastener. It measures the thread when the fastener passes a wheel, which get push back. The distance pushed back is then measured, like a vernier calliper. After measureing the thread, a programme decides where the fastener ends up according to the measured value.
 
-**idea drawing**
-
 Jeren then started modelling the wheel.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/S2wheel1.PNG" width ="300">
@@ -418,7 +416,7 @@ The Wheel Assembly is now connected to the GearTrain Assembly with the use of a 
 
 Jeren made the drawings for the wheel axle and sring rod of the Wheel Assembly.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAxle%20drawing.PNG" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/SpringRod%20drawing.PNG" width ="200">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAxle%20drawing.PNG" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/SpringRod%20drawing.PNG" width ="400">
 
 #### Friday
 
@@ -456,6 +454,13 @@ Another issue is that the wheel doesn't turn smoothly. Lubricant was added to th
 
 Jeren modelled a sorting system for Stage 2 that makes use of a servo.
 
-<img src="" width ="200">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/ServoAss%20V1.PNG" width ="200">
+
+Originally, the middle walls were supposed to both be straight, but Jeren realised that the gap may be too small, by making one side of the wall angled, there will always be a V-shape funnel to catch the fasteners. He thought about making both the walls angled as well but the funnel wouldn't be able to 100% guide the fasteners to a certain path as a fork in the path would be created.
+
+Jeren added walls on the sides of the assembly. This allowed the sorting system to sort more as the outside of the walls can be used to create pathing rather than just the middle of the walls.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/ServoAss%20V2.PNG" width ="200">
+
 
 ### Week 12 (23 Nov - 27 Nov)
