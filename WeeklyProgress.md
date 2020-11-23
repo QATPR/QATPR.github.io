@@ -392,6 +392,8 @@ With the gear rack extruding through the base, a hole was created in the base as
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearrack%20slot.PNG" width ="200">
 
+The base was also made longer to fit the GearTrain Assembly.
+
 #### Wednesday
 
 Jeren made caps for the GearTrain Assembly to allow the gear to rotate on the axis.
@@ -409,6 +411,10 @@ Jeren modelled the other half of the GearTrain Assembly that includes another ge
 This part of the assembly would be connected under the other half of the GearTrain Assembly, through the base plate. 1 small edit is that the holes for the hole on the base of the brackets have been increased to fit the bottom bracket ( centre of the holes changed from 15mm to 25 mm ).
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20full.PNG" width ="200">
+
+The Wheel Assembly is now connected to the GearTrain Assembly with the use of a coupling.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAss%20to%20GearAss.PNG" width ="200">
 
 #### Friday
 
