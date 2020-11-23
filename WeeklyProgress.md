@@ -371,4 +371,38 @@ Jeren worked on modelling the measuring system of Stage 2.
 
 #### Rest of the week
 
-We surveyed the materials in the workshop that can possibly be used in our product.
+We surveyed the materials in the workshop that can possibly be used in our product. We also continued modelling in Fusion 360.
+
+### Week 10 (9 Nov - 13 Nov)
+
+#### Monday
+
+Jeren started modelling out the measuring system in fusion.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20V1.PNG" width ="200"> 
+
+All the gear CAD models were from McMaster-Carr Component, an option in fusion that allows us to scout out parts that are available to buy (screws and other different mechanical components) and the CAD models are provided there. 
+#### Tuesday
+
+Jeren futher developed the GearTrain Assembly. He made the gear rack extrude downwards. This is so that the gear rack wouldn't be floating and would be able to rest on the base surface.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/gearass%20V1.PNG" width ="200"> 
+#### Wednesday
+
+#### Thursday
+
+#### Friday
+
+### Week 11 (16 Nov - 20 Nov)
+
+#### Monday
+
+#### Tuesday
+
+#### Wednesday
+
+#### Thursday
+
+#### Friday
+
+### Week 12 (23 Nov - 27 Nov)
