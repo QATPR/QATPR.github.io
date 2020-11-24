@@ -332,9 +332,13 @@ Jeren printed the bottom wheel part of the carousel.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/BottomWheel.jpeg" width ="300">
 
+Here is the bottom wheel with the flange bearing.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/BottomWheel%20With%20flange.jpeg" width ="300">
+
 We also bought a spring that would be used in the measuring system of Stage 2.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/BottomWheel.jpeg" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Spring.jpeg" width ="300">
 
 We tested the new stage 1 design.This is the link to the video
 (https://drive.google.com/file/d/1WKICuxvPt4oRHUXP7yE59Ezgs43vQa86/view?usp=sharing)
