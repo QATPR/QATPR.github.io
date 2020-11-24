@@ -481,6 +481,9 @@ Jeren animated a motion study for Stage 2 on Fusion 360.
 
 #### Tuesday
 
+Jeren assembled Wheel Assembly with the coupling and the spring
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAssFull.jpeg" width ="300">
 
 #### Wednesday
 
