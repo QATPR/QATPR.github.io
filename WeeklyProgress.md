@@ -468,3 +468,17 @@ Jeren added walls on the sides of the assembly. This allowed the sorting system 
 
 
 ### Week 12 (23 Nov - 27 Nov)
+
+#### Monday
+
+Jeren printed the wheel-stage of the Wheel assembly and assembled Wheel assembly.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelstage.jpeg" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheel%20stage%20with%20bush%20thing.jpeg" width ="200">
+
+#### Tuesday
+
+#### Wednesday
+
+#### Thursday
+
+#### Friday
