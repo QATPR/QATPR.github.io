@@ -473,13 +473,14 @@ Jeren added walls on the sides of the assembly. This allowed the sorting system 
 
 Jeren printed the wheel-stage of the Wheel assembly and assembled Wheel assembly.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelstage.jpeg" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheel%20stage%20with%20bush%20thing.jpeg" width ="200">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelstage.jpeg" width ="200"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/Wheel%20ass.jpeg" width ="200">
 
 Jeren animated a motion study for Stage 2 on Fusion 360.
 
 ![Alt Text](https://media.giphy.com/media/VWQUJEUbZ5c45xEWxP/giphy.gif)
 
 #### Tuesday
+
 
 #### Wednesday
 
