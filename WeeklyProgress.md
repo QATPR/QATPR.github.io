@@ -490,3 +490,17 @@ Jeren assembled Wheel Assembly with the coupling and the spring
 #### Thursday
 
 #### Friday
+
+### Week 14 (7 Dec - 11 Dec)
+
+### Week 15 (14 Dec - 18 Dec)
+
+What Faaris do:
+
+This week i finshed a single module of stage 1, 3d printed its parts and sand blasted.We went out to buy aluminium profiles and also cut the aluminium profiles. I also began assembling the frame. 
+
+### Week 16 (21 Dec - 25 Dec)
+
+What Faaris do:
+
+This week i continued machining brackets for the stage 1 and water cut some brackets.
