@@ -493,6 +493,12 @@ Jeren assembled Wheel Assembly with the coupling and the spring
 
 ### Week 14 (7 Dec - 11 Dec)
 
+this week whole week workshop not open 
+
+What Faaris do:
+
+Faaris just sat at a lonely corner and worked on the designs
+
 ### Week 15 (14 Dec - 18 Dec)
 
 What Faaris do:
