@@ -516,7 +516,9 @@ This week i continued machining brackets for the stage 1 and water cut some brac
 ### Week 18 (4 Jan - 8 Jan)
 
 Tze Pin - Code for Servo Completed
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/servopart1.PNG" width ="300">
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/servopart2.PNG" width ="300">
 
 ### Week 19 (11 Jan - 15 Jan)
 
@@ -525,7 +527,7 @@ Tze Pin - Code for Servo Completed
 ### Week 21 (25 Jan - 29 Jan)
 This week , Tze pin worked on the final electronics assembly 
 
-<image>
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/Electronicsbox.PNG" width ="300">
 
 A box was designed on the machine to facilitate all electronics in a single area,
 and to prevent the issue of wires not being long enough.
