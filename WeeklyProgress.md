@@ -510,3 +510,25 @@ This week i finshed a single module of stage 1, 3d printed its parts and sand bl
 What Faaris do:
 
 This week i continued machining brackets for the stage 1 and water cut some brackets.
+
+### Week 17 (28 Dec - 1 Jan)
+
+### Week 18 (4 Jan - 8 Jan)
+
+Tze Pin - Code for Servo Completed
+
+
+### Week 19 (11 Jan - 15 Jan)
+
+### Week 20 (18 Jan - 22 Jan)
+
+### Week 21 (25 Jan - 29 Jan)
+This week , Tze pin worked on the final electronics assembly 
+
+<image>
+
+A box was designed on the machine to facilitate all electronics in a single area,
+and to prevent the issue of wires not being long enough.
+
+### Week 22 (1 Feb - 5 Feb)
+
