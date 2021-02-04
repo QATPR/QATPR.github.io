@@ -516,9 +516,14 @@ This week i continued machining brackets for the stage 1 and water cut some brac
 ### Week 18 (4 Jan - 8 Jan)
 
 Tze Pin - Code for Servo Completed
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/servopart1.PNG" width ="300">
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/servopart2.PNG" width ="300">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/servopart1.PNG" width ="400">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/servopart2.PNG" width ="400">
+
+The above code enables the servo to detect the movement from a potetiometer and move accordingly. The code also includes a function to enable 
+a delay before the servo moves back to neutral after an activation to account for delays in the screws dropping.
 
 ### Week 19 (11 Jan - 15 Jan)
 
@@ -527,7 +532,7 @@ Tze Pin - Code for Servo Completed
 ### Week 21 (25 Jan - 29 Jan)
 This week , Tze pin worked on the final electronics assembly 
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/Electronicsbox.PNG" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/electronicsbox.PNG" width ="400">
 
 A box was designed on the machine to facilitate all electronics in a single area,
 and to prevent the issue of wires not being long enough.
