@@ -515,11 +515,17 @@ This week i continued machining brackets for the stage 1 and water cut some brac
 
 Tze Pin - Code for Vibration Motors Completed
 
-## 24 Volt Vibration Motors
+#### 24 Volt Vibration Motors
 
 Cotrolled by a push button to enable on/off functionality
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/Motorcode.PNG" width ="400">
+
+#### 12 Volt Vibration Motors
+
+Controlled by a potetiometer to analog arduino pins enabling (PWM) pulse width modulation speed control
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/vib2motor.PNG" width ="400">
 
 ### Week 18 (4 Jan - 8 Jan)
 
