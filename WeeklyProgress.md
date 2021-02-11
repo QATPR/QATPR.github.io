@@ -503,7 +503,9 @@ Faaris just sat at a lonely corner and worked on the designs
 
 What Faaris do:
 
-This week i finshed a single module of stage 1, 3d printed its parts and sand blasted.We went out to buy aluminium profiles and also cut the aluminium profiles. I also began assembling the frame. 
+This week i finshed a single module of stage 1, 3d printed its parts and sand blasted.We went out to buy aluminium profiles and also cut the aluminium profiles. I also began assembling the frame.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/stage%201%20module.jfif" width ="300">
 
 ### Week 16 (21 Dec - 25 Dec)
 
