@@ -497,27 +497,27 @@ this week whole week workshop not open
 
 What Faaris do:
 
-Faaris just sat at a lonely corner and worked on the designs
+Faaris just sat at a lonely corner and worked on the designs. Read the images follow for the idea i came up with and its explanation
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Stage%201%20pg%2018-1.png" width ="600">
-
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Stage%201%20pg%2019-1.png" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Stage%201%20pg%2018-1.png" width ="800">
 
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2020%20-1.png" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Stage%201%20pg%2019-1.png" width ="800">
 
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2021-1.png" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2020%20-1.png" width ="800">
 
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2022-1.png" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2021-1.png" width ="800">
 
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2023-1.png" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2022-1.png" width ="800">
 
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2024-1.png" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2023-1.png" width ="800">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2024-1.png" width ="800">
 
 ### Week 15 (14 Dec - 18 Dec)
 
