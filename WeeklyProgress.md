@@ -503,15 +503,27 @@ Faaris just sat at a lonely corner and worked on the designs
 
 What Faaris do:
 
-This week i finshed a single module of stage 1, 3d printed its parts and sand blasted.We went out to buy aluminium profiles and also cut the aluminium profiles. I also began assembling the frame.
+This week i finshed a single module of stage 1, 3d printed its parts and sand blasted the aluminium components.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/stage%201%20module.jfif" width ="300">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Module%20with%203d%20prints.png" width ="300">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/water%20cut%20spine.jfif" width ="300">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/brackets%20manufacturing.jfif" width ="300">
 
 ### Week 16 (21 Dec - 25 Dec)
 
 What Faaris do:
 
-This week i continued machining brackets for the stage 1 and water cut some brackets.
+We went out to buy aluminium profiles from tech cheong aluminium and also cut the aluminium profiles. I also began assembling the frame.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/Tech%20Cheong%20ALuminium.jfif" width ="300">
+
+This week I machined the components for the second module of stage 1. This includes the gap walls and brackets. The brackets is supposed to be milled to the shape of the outline, however i decided to water cut it because of time contrains. The bad thing about this is that the bracket surface will have a taper, causing an unflat surface due to the thickness of the brackets. However, the built quality of the module is no concern for the second module as it will only be for display as at this point we unserstood we could only do enough components for the sorting of M3-M4 only.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/bracket%20and%20module.jfif" width ="300">
 
 ### Week 17 (28 Dec - 1 Jan)
 
