@@ -499,6 +499,8 @@ What Faaris do:
 
 Faaris just sat at a lonely corner and worked on the designs
 
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/stage%201%20pg%2020%20.pdf" width ="300">
+
 ### Week 15 (14 Dec - 18 Dec)
 
 What Faaris do:
