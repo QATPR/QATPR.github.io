@@ -547,13 +547,13 @@ This week I machined the components for the second module of stage 1. This inclu
 
 This week also i started working on the transition phase design. Below is design and explanation of our design
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-1.png">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-1.png" width ="800">
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-2.png">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-2.png" width ="800">
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-3.png">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-3.png" width ="800">
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-4.png">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-4.png" width ="800">
 
 ### Week 17 (28 Dec - 1 Jan)
 
