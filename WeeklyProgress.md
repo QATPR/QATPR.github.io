@@ -499,7 +499,25 @@ What Faaris do:
 
 Faaris just sat at a lonely corner and worked on the designs
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/stage%201%20pg%2020%20.pdf" width ="300">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Stage%201%20pg%2018-1.png" width ="600">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Stage%201%20pg%2019-1.png" width ="600">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2020%20-1.png" width ="600">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2021-1.png" width ="600">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2022-1.png" width ="600">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2023-1.png" width ="600">
+
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2024-1.png" width ="600">
 
 ### Week 15 (14 Dec - 18 Dec)
 
