@@ -545,6 +545,16 @@ This week I machined the components for the second module of stage 1. This inclu
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/bracket%20and%20module.jfif" width ="300">
 
+This week also i started working on the transition phase design. Below is design and explanation of our design
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-1.png">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-2.png">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-3.png">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-4.png">
+
 ### Week 17 (28 Dec - 1 Jan)
 
 Tze Pin - Code for Vibration Motors Completed
