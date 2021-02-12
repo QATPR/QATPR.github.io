@@ -637,3 +637,5 @@ This electronics box also enabled for a control panel to be installed on the ver
 
 ### Week 22 (1 Feb - 5 Feb)
 
+This week we fully assembled all components of all the phases. We finished the report and prepared a video for the presentation. 
+
