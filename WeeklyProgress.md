@@ -560,8 +560,7 @@ This week also i started working on the transition phase design. Below is design
 What Faaris did this week:
 This week i fabricated the transition phase, mainly through 3D printing and water cutting.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%2039-1.png
-" width ="800">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%2039-1.png" width ="800">
 
 Tze Pin - Code for Vibration Motors Completed
 
