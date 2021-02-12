@@ -606,7 +606,26 @@ This week i fabricated the feeder through 3d printing and laser cutting.
 
 ### Week 20 (18 Jan - 22 Jan)
 
+What Faaris did this week:
+
+This week i worked on the final phase which is the storage phase. This phase has 3 compartments to catch the 2 fasteners allocated to it and the third to capture non standard sized fasteners. I manages to fabricate it in the same week
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Storage-1.png" width ="800">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Storage-2.png" width ="800">
+
 ### Week 21 (25 Jan - 29 Jan)
+
+What Faaris did this week:
+
+This week further worked on the assembly. I adjusted the componenets here and there, tested them and made corrections such as redesigning and reprinting some components.I also fully assembled the frame. More of the frame specifications below
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Frame-1.png" width ="800">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Frame-2.png" width ="800">
+
+
+
 This week , Tze pin worked on the final electronics assembly 
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/electronicsbox.PNG" width ="400">
