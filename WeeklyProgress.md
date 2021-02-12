@@ -582,12 +582,9 @@ What Faaris did this week:
 
 This week i worked on the feeder design. The purpose of the feeder is to feed fasteners into stage 1 for sorting. We need the feeder to be able to dispense fasteners out at a slow rate into stage 1 based on out tests in stage 1.
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Feeder%20Phase-1.png" width ="800">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/FEEDER-1.png" width ="800">
 
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Feeder%20Phase-2.png" width ="800">
-
-<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Feeder%20Phase-3.png" width ="800">
-
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/FEEDER-2.png" width ="800">
 
 Tze Pin - Code for Servo Completed
 
@@ -600,6 +597,12 @@ The above code enables the servo to detect the movement from a potetiometer and 
 a delay before the servo moves back to neutral after an activation to account for delays in the screws dropping.
 
 ### Week 19 (11 Jan - 15 Jan)
+
+What Faaris did this week:
+
+This week i fabricated the feeder through 3d printing and laser cutting.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/FEEDER-3.png" width ="800">
 
 ### Week 20 (18 Jan - 22 Jan)
 
