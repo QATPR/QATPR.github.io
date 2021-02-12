@@ -578,6 +578,17 @@ Controlled by a potetiometer to analog arduino pins enabling (PWM) pulse width m
 
 ### Week 18 (4 Jan - 8 Jan)
 
+What Faaris did this week:
+
+This week i worked on the feeder design. The purpose of the feeder is to feed fasteners into stage 1 for sorting. We need the feeder to be able to dispense fasteners out at a slow rate into stage 1 based on out tests in stage 1.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Feeder%20Phase-1.png" width ="800">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Feeder%20Phase-2.png" width ="800">
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Feeder%20Phase-3.png" width ="800">
+
+
 Tze Pin - Code for Servo Completed
 
 
