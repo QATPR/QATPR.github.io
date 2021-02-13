@@ -560,6 +560,8 @@ This week also i started working on the transition phase design. Below is design
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Transition%20pg%2036-39-4.png" width ="800">
 
+Jeren started printing the customed big gear, the small gear and the gear rack.
+
 ### Week 17 (28 Dec - 1 Jan)
 
 What Faaris did this week:
@@ -581,6 +583,17 @@ Controlled by a potetiometer to analog arduino pins enabling (PWM) pulse width m
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesTP/vib2motor.PNG" width ="400">
 
+
+Jeren machined the brackets to hold the gear assembly. He decided to leave to upper brackets as 3D-printed as the workshop doesnt have a 22mm drill bit. He decided to add another bearing to hold an extended rod. This would reduce the amount of slack in the assembly.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/2%20bearings.PNG" width ="600">
+
+Jeren machined 2 bearing lifts.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/front%20lift%20drawing.jpg" width ="600">
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/back%20lift%20drawing.jpg" width ="600">
+
+
 ### Week 18 (4 Jan - 8 Jan)
 
 What Faaris did this week:
@@ -601,6 +614,12 @@ Tze Pin - Code for Servo Completed
 The above code enables the servo to detect the movement from a potetiometer and move accordingly. The code also includes a function to enable 
 a delay before the servo moves back to neutral after an activation to account for delays in the screws dropping.
 
+Jeren laser cutted and 3D printed the parts for the servo sorter. He also designed a new casing for Stage 2.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/new%20casing%20for%20stage%202.png" width ="800">
+
+Jeren then went to create the casing. They are water cut out. The sides are then metal bended. Then spacers are made by milling and its holes are tapped. Due to the water jet not being a staight column, the holes are not even through out, so he had to drill all the holes again manually.
+
 ### Week 19 (11 Jan - 15 Jan)
 
 What Faaris did this week:
@@ -608,6 +627,15 @@ What Faaris did this week:
 This week i fabricated the feeder through 3d printing and laser cutting.
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/FEEDER-3.png" width ="800">
+
+Jeren assembled the servo sorting assembly. But the potentiometer couldnt fit. So he filed the potentiometer down a little to make it fit into the assembly. Since the potentiometer was filed, the edge is not straight, making it move left and right when the knob is turnt. Jeren then designed and made a part to hold the potentiometer in place.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/potentiometer%20holder.png" width ="400">
+
+Jeren designed a part to prevent the fasteners from falling of the plate. The fasteners can fall off due to the vibrations in Stage 1.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/plate%20enclosure.png" width ="400">
+
 
 ### Week 20 (18 Jan - 22 Jan)
 
@@ -618,6 +646,17 @@ This week i worked on the final phase which is the storage phase. This phase has
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Storage-1.png" width ="800">
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/Storage-2.png" width ="800">
+
+Jeren made a few slopes to test which version would work the best.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/3%20types%20of%20slopes.png" width ="600">
+
+After testing, jeren found out that a curved slope works best. He added a wall at the end to make sure the fasteners fall into the servo sorter.
+
+Jeren assembled the whole of Stage 2. One wall of the servo sorter broke as it was not placed down properly, so he re-cut another. The plate was also re-designed to have only hold 3 fasteners a time. The new design also has a fillet to ensure the fasteners enter easily.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/3%20types%20of%20plates.png" width ="600">
+
 
 ### Week 21 (25 Jan - 29 Jan)
 
@@ -639,6 +678,8 @@ A box was designed on the machine to facilitate all electronics in a single area
 and to prevent the issue of wires not being long enough.
 
 This electronics box also enabled for a control panel to be installed on the vertical section , enabling ease of use for the operator.
+
+Jeren worked on tweaking Stage 2 to make sure it work as well as possible. As the plate was made to tightfit on the rod, the plate would have to broken when it was needed to be removed, so multiple plates were laser cut. The gaps in the plate was also made smaller to ensure the M3 fasteners could not fall through.
 
 ### Week 22 (1 Feb - 5 Feb)
 
