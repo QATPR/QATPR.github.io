@@ -469,7 +469,6 @@ Jeren added walls on the sides of the assembly. This allowed the sorting system 
 
 ### Week 12 (23 Nov - 27 Nov)
 
-#### Monday
 
 Jeren printed the wheel-stage of the Wheel assembly and assembled Wheel assembly.
 
@@ -479,17 +478,11 @@ Jeren animated a motion study for Stage 2 on Fusion 360.
 
 ![Alt Text](https://media.giphy.com/media/VWQUJEUbZ5c45xEWxP/giphy.gif)
 
-#### Tuesday
 
 Jeren assembled Wheel Assembly with the coupling and the spring
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/WheelAssFull.jpeg" width ="300">
 
-#### Wednesday
-
-#### Thursday
-
-#### Friday
 
 ### Week 14 (7 Dec - 11 Dec)
 
@@ -519,6 +512,14 @@ Faaris just sat at a lonely corner and worked on the designs. Read the images fo
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/week14/stage%201%20pg%2024-1.png" width ="800">
 
+Jeren wanted to machine out the wheels but Mr Edward said that the inner steps would be too hard to machine. So he had to re-design the two wheels. And due to the new design, a new bearing needs to be bought. another reason to get a new bearing is because the current bearing is for linear movement while we need one for rotary movement.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelv21.png" width ="400"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelv22.png" width ="400">
+
+During the weekend, Jeren when to buy nylon. The nylon would be used to make the wheels. He got 2 pieces. One is about 100mm diameter, and the other is 90mm diameter.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/nylon.png" width ="400">
+
 ### Week 15 (14 Dec - 18 Dec)
 
 What Faaris do:
@@ -532,6 +533,10 @@ This week i finshed a single module of stage 1, 3d printed its parts and sand bl
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/water%20cut%20spine.jfif" width ="300">
 
 <img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesFaris/brackets%20manufacturing.jfif" width ="300">
+
+Jeren started machining the nylons into the wheels. This is taking longer than expected as the squared in the middle can only be cut 0.2mm per cut as it would cause too much stress if too much.
+
+<img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelv21%20draw.jpg" width ="600"><img src="https://github.com/QATPR/QATPR.github.io/blob/main/imagesJeren/wheelv22%20draw.jpg" width ="600">
 
 ### Week 16 (21 Dec - 25 Dec)
 
